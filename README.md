@@ -53,4 +53,4 @@ Project Goals:
 
 * **Michał Boese** - *IT Student* - [Michał Boese](https://github.com/michalboese/) - *Fullstack Developer*
 * **Mariusz Bar** - *IT Student* - [Mariusz Bar](https://github.com/Mariusz-Bar) - *Fullstack Developer*
-* **Adam Rekruciak** - *IT Student* - [Adam Rekruciak](https://github.com/aerkie) - *Fullstack Developer*
+* **Adam Rekruciak** - *IT Student* - [Adam Rekruciak](https://github.com/adamrekruciak) - *Fullstack Developer*
